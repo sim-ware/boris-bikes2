@@ -27,3 +27,7 @@ file path: '/Users/Sim/.rvm/rubies/ruby-2.3.3/bin/irb:11:'
 line number: 11
 RubyDocs: We have nothing named 'DockingStation'
 How to Solve: Create Unit Test failing with similar error; then Create class 'DockingStation'
+
+Challenge 7: Back to the Feature
+--------------------------------
+We don't see an error now, as the class is defined in './lib/docking_station.rb'
